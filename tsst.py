@@ -84,8 +84,8 @@ class Proxy:
         self.website = "https://c4.freefireinfo.site/api/{id}"
         self.Beston = False
         self.Server = False
-        self.owner = "VenomModzz"
-        self.repo = "VenomModzz"
+        self.owner = "Rdlakhal"
+        self.repo = "boott"
         self.file_name = "BESTO.txt"
         self.url = f"https://api.github.com/repos/{self.owner}/{self.repo}/contents/"
         try:
